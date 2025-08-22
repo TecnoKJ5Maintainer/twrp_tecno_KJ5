@@ -23,7 +23,7 @@ Display | 720 x 1612 pixels, 6.6 inches, 60/90 hz
 ## Features
 
 Works:
-# untested
+Note: untested
 - [ ] ADB
 - [ ] Decryption
 - [ ] Display

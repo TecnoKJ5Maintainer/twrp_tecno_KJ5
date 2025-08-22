@@ -25,8 +25,8 @@ $(call inherit-product, $(SRC_TARGET_DIR)/product/base.mk)
 # Installs gsi keys into ramdisk, to boot a developer GSI with verified boot.
 $(call inherit-product, $(SRC_TARGET_DIR)/product/gsi_keys.mk)
 
-# Inherit from KJ5n device
-$(call inherit-product, device/Tecno/KJ5n/device.mk)
+# Inherit from KJ5 device
+$(call inherit-product, device/tecno/KJ5/device.mk)
 
 # Inherit some common TWRP stuff
 $(call inherit-product, vendor/twrp/config/common.mk)

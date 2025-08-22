@@ -46,7 +46,7 @@ jobs:
   build:
     #if: github.event.repository.owner.id == github.event.sender.id
     if: github.event.sender.type == 'User'
-    runs-on: ubuntu-latest
+    runs-on: ubuntu-20.04
     permissions:
       contents: write
     steps:

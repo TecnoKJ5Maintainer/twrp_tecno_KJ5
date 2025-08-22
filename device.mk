@@ -16,7 +16,7 @@
 # limitations under the License.
 #
 
-LOCAL_PATH := device/Tecno/KJ5n
+LOCAL_PATH := device/Tecno/KJ5
 
 # Dynamic partitions
 PRODUCT_USE_DYNAMIC_PARTITIONS := true

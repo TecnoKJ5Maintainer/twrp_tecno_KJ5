@@ -193,7 +193,6 @@ TW_EXCLUDE_DEFAULT_USB_INIT := true
 
 # Lesser Size
 BOARD_RAMDISK_USE_LZ4 := true
-TW_EXTRA_LANGUAGES := false
 
 # Device 
 TW_DEVICE_VERSION := SPARK 20 by Re6ee
